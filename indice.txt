@@ -1,4 +1,4 @@
-
-"Mensaje de prueba" 
-mensaje1 
-"Cap¡tulo 4: Gesti¢n de ramas" 
+ECHO est  activado.
+Cap¡tulo 1: Introducci¢n a Git 
+Cap¡tulo 2: Flujo de trabajo b sico 
+Cap¡tulo 3: Repositorios remotos 
